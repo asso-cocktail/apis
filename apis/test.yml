@@ -9,3 +9,7 @@ paths:
       responses:
         200:
           description: ok
+    put:
+      responses:
+        200:
+          description: ddd
